@@ -129,7 +129,7 @@
         "@typescript-eslint/parser": "^6.10.0",
         "conventional-changelog-cli": "2.2.2",
         "electron": "27.1.0",
-        "electron-builder": "24.6.4",
+        "electron-builder": "24.13.3",
         "eslint": "^8.53.0",
         "eslint-plugin-import": "2.26.0",
         "husky": "5.0.9",
